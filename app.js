@@ -24,8 +24,6 @@ function actualizarListaDeAmigos() {
 return;
 }
 
-
-sortearAmigo()
 function sortearAmigo() {
     //console.log(amigos.length);
 if (amigos.length>0) {
